@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Lorem Ipsum",
+    "author": "John Doe",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS1o3mO3S_Nkfw1WAGaRJ6KaOGgODpfoOsA&usqp=CAU",
+    "cover_img": "https://img.freepik.com/free-photo/online-blog_53876-123696.jpg?w=1060&t=st=1705474993~exp=1705475593~hmac=b2b2d9d7cef70eaba1e15d75d63ade21465c320f6e48231716eb915ed0322f34",
+    "post_date": "2024-01-16",
+    "reading_time": 5,
+    "hashtags": ["#Lorem", "#Ipsum", "#Dolor"]
+  },
+  {
+    "id": 2,
+    "title": "Dolor Sit Amet",
+    "author": "Jane Smith",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16eO5W8VPjVFrkvG8n_2FQKjByMcbLtBF4A&usqp=CAU",
+    "cover_img": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=1060&t=st=1705475103~exp=1705475703~hmac=fa2e7f5ebcfce1b365335894141b8230ee956cad3961315bc22c8d7c9d239aa1",
+    "post_date": "2024-01-17",
+    "reading_time": 7,
+    "hashtags": ["#Dolor", "#SitAmet", "#Consectetur"]
+  },
+  {
+    "id": 3,
+    "title": "Adipiscing Elit",
+    "author": "Bob Johnson",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUs73Mz3FqhV8uy2F5TGw_jGvFdzGirConJA&usqp=CAU",
+    "cover_img": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=1060&t=st=1705475144~exp=1705475744~hmac=659b2ef6e5b6020cc2ee7ac3d253b8e1bc81bc5c5d8ee0427b5c9dcd4c3aef7b",
+    "post_date": "2024-01-18",
+    "reading_time": 8,
+    "hashtags": ["#Adipiscing", "#Elit", "#Sed"]
+  }
+]
